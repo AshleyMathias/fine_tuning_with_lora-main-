@@ -23,8 +23,9 @@ A lightweight web application that allows users to **fine-tune a pre-trained BER
 
 ## 🖼️ Screenshot
 
+Here’s a preview of the Streamlit interface where users can input sentences, label sentiment, and train a BERT model with LoRA adapters — all in the browser!
 
-| ![App Screenshot](screenshots/Screenshot.png) |
+![App Screenshot](screenshots/Screenshot.png)
 
 ---
 
