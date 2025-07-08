@@ -114,11 +114,11 @@ See the [LICENSE](LICENSE) file for details.
 <br/>
 
 🔗 **Connect with me**  
-<a href="https://www.linkedin.com/in/ashley-mathias" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ashley%20Mathias-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ashleymathias10" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ashley%20Mathias-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:ashley.mathias@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff69b4?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:ashleymathias100@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff69b4?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-@yourusername-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/AshleyMathias"><img src="https://img.shields.io/badge/GitHub-@AshleyMathias-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br/><br/>
 
