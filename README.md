@@ -23,8 +23,7 @@ A lightweight web application that allows users to **fine-tune a pre-trained BER
 
 ## 🖼️ Screenshot
 
-| Train LoRA BERT on Your Own Sentences |
-|---------------------------------------|
+
 | ![App Screenshot](screenshots/Screenshot.png) |
 
 ---
