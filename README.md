@@ -3,7 +3,7 @@
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b.svg?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-BERT-yellow.svg?logo=huggingface&logoColor=white)](https://huggingface.co)
 [![LoRA](https://img.shields.io/badge/LoRA-Adapter%20Tuning-blueviolet)](https://github.com/huggingface/peft)
-[![License](https://img.shields.io/github/license/yourusername/bert-lora-streamlit)](LICENSE)
+[![License](https://img.shields.io/github/license/AshleyMathias/fine_tuning_with_lora-main-)](LICENSE)
 
 A lightweight web application that allows users to **fine-tune a pre-trained BERT model using LoRA adapters** directly from a Streamlit UI — with just a few training sentences! Ideal for learning, experimentation, and demos without GPU dependency.
 
