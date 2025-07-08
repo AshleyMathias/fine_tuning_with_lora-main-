@@ -42,8 +42,8 @@ Here’s a preview of the Streamlit interface where users can input sentences, l
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/bert-lora-streamlit.git
-cd bert-lora-streamlit
+git clone https://github.com/AshleyMathias/fine_tuning_with_lora-main-.git
+cd fine_tuning_with_lora-main-
 ```
 
 # Create a virtual environment
