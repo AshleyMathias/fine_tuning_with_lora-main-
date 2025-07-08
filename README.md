@@ -55,3 +55,16 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
+
+---
+
+## 📂 Project Structure
+
+bert-lora-streamlit/
+├── app.py # Streamlit app interface
+├── fine_tuning2.py # Core training and inference logic
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+├── LICENSE # MIT License file
+└── screenshots/
+└── app_preview.png # UI screenshot for README
